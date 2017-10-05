@@ -21,8 +21,6 @@ By default is using Singapore data from [AzureBootcamp-Data](https://github.com/
 - Deploy using Git, Visual Studio Code + Git or Azure CLI, Visual Studio 2017 or your preference deployment app.
 - You just need to submit a pull request to create a json file with your event details at [AzureBootcamp-Data Wiki](https://github.com/punitganshani/azurebootcamp-data/wiki) or use your GitHub and change the URL in the Controllers source code and voila, the site is up!
 
-Note: The year is set to 2018.
-
 ## Configuring subdomain like region.azurebootcamp.net
 
 - Login to [Gloabl Site](http://global.azurebootcamp.net)
