@@ -36,9 +36,17 @@
       "Name": "Coming Soon"
     }
   ],
-  "Tracks": [
+"Tracks": [
     {
-	}
-	]
+      "Name": "TBA",
+      "Sessions": [
+        {
+          "SessionId": "",
+          "Time": "",
+          "Title": ""
+        }
+      ]
+    }
+  ]
 }
- 
+
