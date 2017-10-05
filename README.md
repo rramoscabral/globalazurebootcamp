@@ -29,7 +29,6 @@ By default is using Singapore data from [AzureBootcamp-Data](https://github.com/
 
 - Countount Timer : Shared View '_Layout.cshtml' <div id="CountDownTimer" data-bgcolor="#fff" data-date="2018-04-21 00:00:00" class="centered"
 - Google Map Key   : Shared View '_Map.cshtml' 
-- Organizer E-mail : Shared View '_Organizers.cshtml'
 
 ## Configuring subdomain like region.azurebootcamp.net
 
