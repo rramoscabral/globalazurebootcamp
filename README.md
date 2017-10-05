@@ -3,7 +3,7 @@
 This is a fork from Puneet Ghanshani https://github.com/punitganshani/azurebootcamp.
 
 I updated the 2017 source code for .NET Core with Visual Studio Code and is compatible with Visual Studio 2017.
-By default is using Singapore data (https://github.com/azurebootcamp/azurebootcamp-data).
+By default is using Singapore data from [AzureBootcamp-Data Wiki](https://github.com/punitganshani/azurebootcamp-data/wiki).
 
 ## Technology Stack
 
