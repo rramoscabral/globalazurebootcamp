@@ -3,11 +3,12 @@
 This is a fork from Puneet Ghanshani https://github.com/punitganshani/azurebootcamp.
 
 I updated the 2017 source code for .NET Core with Visual Studio Code and is compatible with Visual Studio 2017.
-By default is using Singapore data from [AzureBootcamp-Data](https://github.com/azurebootcamp/azurebootcamp-data).
+By default is using Singapore data from [AzureBootcamp-Data](https://github.com/azurebootcamp/azurebootcamp-data) the default location is set in the file  config.json.
 
 ## Technology Stack
 
 - .NET Core 2.0 SDK (https://www.microsoft.com/net/download/core)
+- Razor Pages in ASP.NET Core MVC
 - HTML5
 - jQuery
 - CSS3
@@ -16,9 +17,11 @@ By default is using Singapore data from [AzureBootcamp-Data](https://github.com/
 
 ## How to use it?
 
-- You don't need to edit HTML code, or deploy this as well
+- You don't need to edit HTML code, if you want to translate to your language you need to edit the Views.
+- Deploy using Git, Visual Studio Code + Git or Azure CLI, Visual Studio 2017 or your preference deployment app.
 - You just need to submit a pull request to create a json file with your event details at [AzureBootcamp-Data Wiki](https://github.com/punitganshani/azurebootcamp-data/wiki) or use your GitHub and change the URL in the Controllers source code and voila, the site is up!
 
+Note: The year is set to 2018.
 
 ## Configuring subdomain like region.azurebootcamp.net
 
