@@ -25,10 +25,15 @@
   "Sponsors": [
   ],
   "Prizes": [
+      {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
+      "Link": "#",
+      "Name": "Coming Soon"
+    }
   ],
 "Tracks": [
     {
-      "Name": "TBA",
+      "Name": "",
       "Sessions": [
         {
           "SessionId": "",
