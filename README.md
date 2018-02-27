@@ -32,7 +32,7 @@ By default is using Singapore data from [AzureBootcamp-Data](https://github.com/
 
 ## Configuring subdomain like region.azurebootcamp.net
 
-- Login to [Gloabl Site](http://global.azurebootcamp.net)
+- Login to [Gloabal Site](http://global.azurebootcamp.net)
 - Select your host (say, singapore.azurebootcamp.net) and add CNAME to your Azure WebApp (like, azurebootcamp2018.azurewebsites.net/**your-location**)
 - Now access sub-domain website (say, singapore.azurebootcamp.net) and it will route to azurebootcamp2018.azurewebsites.net/**your-location**
 
