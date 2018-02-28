@@ -31,11 +31,9 @@ By default is using Singapore data from [AzureBootcamp-Data](https://github.com/
 ' <div id="CountDownTimer" data-bgcolor="#fff" data-date="2018-04-21 00:00:00" class="centered"
 
 - [**UPDATED**] Google Map Key : 
+--I've changed the file /Views/Shared/_Layout.cshtml and /Views/Shared/_Map.cshtml. Now is forcing the map directly instead of reading the information in the json file. You need to set the API KEY and coordinates in /Views/Shared/_Layout.cshtml. The coordinates can be obtained at http://www.mapcoordinates.net/
 
-I've changed the file /Views/Shared/_Layout.cshtml and /Views/Shared/_Map.cshtml. Now is forcing the map directly instead of reading the information in the json file. You need to set the API KEY and coordinates in /Views/Shared/_Layout.cshtml. The coordinates can be obtained at http://www.mapcoordinates.net/
-
-
-:: [Before] ::
+[Before] 
 '/source-code/bootcamp/Views/Shared/_Map.cshtml' If you do not have any Google Maps API, you need to register and replace the key in the source code (AIzaSyCO6AXw4-I0uuUxAKBKMtoB0eUmKfobjH0) with the new Key API created.
 
 
