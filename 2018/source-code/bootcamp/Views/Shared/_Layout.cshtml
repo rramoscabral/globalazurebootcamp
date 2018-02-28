@@ -126,6 +126,25 @@
         <script src="~/js/TimeCircles.js" asp-append-version="true"></script>
         <script src="~/js/site.js" asp-append-version="true"></script>
         <script src="~/js/custom.js" asp-append-version="true"></script>
+        
+        <!-- Goolge Maps-->
+
+        <script>
+            function initMap() {
+                var uluru = { lat: 40.7143528 lng: -74.0059731 };
+                var map = new google.maps.Map(document.getElementById('googlemap'), {
+                    zoom: 16,
+                    center: uluru
+                });
+                var marker = new google.maps.Marker({
+                    position: uluru,
+                    map: map
+                });
+            }
+        </script>
+        <script async defer
+                src="https://maps.googleapis.com/maps/api/js?key=<YOUR-API-KEY-HERE>&callback=initMap">
+        </script>
 
     </environment>
     @RenderSection("scripts", required: false)
