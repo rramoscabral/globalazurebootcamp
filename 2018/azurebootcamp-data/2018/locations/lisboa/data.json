@@ -30,10 +30,10 @@
   "Sponsors": [
   ],
   "Prizes": [
-      {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
-      "Link": "#",
-      "Name": "Coming Soon"
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/CloudMonix-Orange-cropped-300x61.png",
+      "Link": "http://www.cloudmonix.com/",
+      "Name": "Todos os participantes recebem um código de promocional válido por 1 mês de monitoramento ilimitado do plano Ultimate."
     }
   ],
 "Tracks": [
