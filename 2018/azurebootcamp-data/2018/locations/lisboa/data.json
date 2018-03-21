@@ -31,32 +31,32 @@
     {
       "Name": "CloudMonix",
       "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/sponsor_CloudMonix.png",
-      "Link": "www.cloudmonix.com/"
+      "Link": "http://www.cloudmonix.com/"
     },
     {
       "Name": "myGet",
       "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/sponsor_MyGet.png",
-      "Link": "www.myget.org/"
+      "Link": "http://www.myget.org/"
     },
     {
       "Name": "Cerebrata",
       "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/sponsor_cerebrata.png",
-      "Link": "www.cerebrata.com"
+      "Link": "http://www.cerebrata.com"
     },
     {
       "Name": "Opsgility",
       "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/sponsor_Opsgility.png",
-      "Link": "www.opsgility.com/"
+      "Link": "http://www.opsgility.com/"
     },
     {
       "Name": "JetBrains",
       "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/sponsor_jetbrains.png",
-      "Link": "www.jetbrains.com/"
+      "Link": "http://www.jetbrains.com/"
     },
     {
       "Name": "ServiceBus 360",
       "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/sponsor_ServiceBus360.png",
-      "Link": "www.servicebus360.com/"
+      "Link": "http://www.servicebus360.com/"
     }
   ],
   "Prizes": [
@@ -84,3 +84,4 @@
     }
   ]
 }
+
