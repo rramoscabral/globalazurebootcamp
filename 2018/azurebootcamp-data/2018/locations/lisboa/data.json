@@ -62,8 +62,13 @@
   "Prizes": [
       {
       "ImageUrl": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/sponsor_CloudMonix.png",
-      "Link": "www.cloudmonix.com",
+      "Link": "http://www.cloudmonix.com",
       "Name": "Todos os participantes recebem um código de promocional válido por 1 mês de monotorização ilimitado do plano Ultimate."
+    },
+	   {
+      "ImageUrl": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/sponsor_MyGet.png",
+      "Link": "http://www.myget.org",
+      "Name": "Todos os participantes recebem um código promocional válido por 1 mês para alojar os seus feeds privados."
     }
   ],
 "Tracks": [
