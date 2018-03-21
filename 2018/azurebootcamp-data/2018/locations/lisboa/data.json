@@ -30,38 +30,38 @@
   "Sponsors": [
     {
       "Name": "CloudMonix",
-      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/CloudMonix-Orange-cropped-300x61.png",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/CloudMonix.png",
       "Link": "www.cloudmonix.com/"
     },
     {
       "Name": "myGet",
-      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/MyGet-logo-small.png",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/MyGet.png",
       "Link": "www.myget.org/"
     },
     {
       "Name": "Cerebrata",
-      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/cerebrata-logo.png",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/cerebrata.png",
       "Link": "www.cerebrata.com"
     },
     {
       "Name": "Opsgility",
-      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility-Logo-160.png",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility.png",
       "Link": "www.opsgility.com/"
     },
     {
       "Name": "JetBrains",
-      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/jetbrains-150x150.png",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/jetbrains.png",
       "Link": "www.jetbrains.com/"
     },
     {
       "Name": "ServiceBus 360",
-      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/ServiceBus360-Logo-e1521312053831.png",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/ServiceBus360.png",
       "Link": "www.servicebus360.com/"
     }
   ],
   "Prizes": [
       {
-      "ImageUrl": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/CloudMonix-Orange-cropped-300x61.png",
+      "ImageUrl": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/CloudMonix.png",
       "Link": "www.cloudmonix.com",
       "Name": "Todos os participantes recebem um código de promocional válido por 1 mês de monotorização ilimitado do plano Ultimate."
     }
