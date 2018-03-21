@@ -28,6 +28,41 @@
     }
   ],
   "Sponsors": [
+      {
+      "Name": "Microsoft",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility-Logo-160.png",
+      "Link": "www.microsoft.com"
+    },
+    {
+      "Name": "CloudMonix",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility-Logo-160.png",
+      "Link": "www.cloudmonix.com/"
+    },
+    {
+      "Name": "myGet",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility-Logo-160.png",
+      "Link": "www.myget.org/"
+    },
+    {
+      "Name": "Cerebrata",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility-Logo-160.png",
+      "Link": "www.cerebrata.com"
+    },
+    {
+      "Name": "Opsgility",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility-Logo-160.png",
+      "Link": "www.opsgility.com/"
+    },
+    {
+      "Name": "JetBrains",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility-Logo-160.png",
+      "Link": "www.jetbrains.com/"
+    },
+    {
+      "Name": "ServiceBus 360",
+      "Image": "https://raw.githubusercontent.com/rramoscabral/globalazurebootcamp/master/2018/azurebootcamp-data/2018/locations/lisboa/Opsgility-Logo-160.png",
+      "Link": "www.servicebus360.com/"
+    }
   ],
   "Prizes": [
       {
@@ -49,3 +84,4 @@
     }
   ]
 }
+
